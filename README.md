@@ -22,6 +22,14 @@ I write as often as I can make myself do it. Here's my latest.
 
     I almost never respond to chat requests on social platforms. That might feel like a slight, so here&rsquo;s an explanation as to why.
 
+* 📓  [**NaNoWriMo 2020**](https://freyyj.org/nanowrimo-2020) <sub><em>Oct 24, 2020</em></sub>
+
+    Examining why I fail NaNoWriMo every year, and considering failing it again in 2020.
+
+* 💄  [**The Long Arc of History**](https://freyyj.org/long-arc) <sub><em>Oct 23, 2020</em></sub>
+
+    A secret crossdressing resort in the Catskills during the 1960s, and thinking about crossdressers of the past.
+
 A full list of [my articles is here](https://freyyj.org/articles).
 
 ---
