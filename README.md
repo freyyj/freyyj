@@ -8,7 +8,7 @@ You can find me online at [**freyyj.org**](https://freyyj.org) and on Twitter at
 
 I write as often as I can make myself do it. Here's my latest.
 
-( 🖥️ = technology, 🌏 = social platforms/internet, 🎞️ = culture, 💄 = boy-to-girl stuff, 📓 = personal, 🗞️ = other )
+( 🖥️ = technology, 🌏 = social platforms, 🎞️ = culture, 💄 = boy-to-girl stuff, 📓 = personal, 🗞️ = other )
 
 * 🎞️  [**The Original Uniform**](https://freyyj.org/star-trek-uniform) <sub><em>Nov 1, 2020</em></sub>
 
