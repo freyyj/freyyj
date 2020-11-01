@@ -12,7 +12,7 @@ I write as often as I can make myself do it. Here's my latest.
 
 * 🎞️  [**The Original Uniform**](https://freyyj.org/star-trek-uniform) <sub><em>Nov 1, 2020</em></sub>
 
-    An ode to the incredibly cute women's uniforms in _Star Trek_'s original series, which coincidentally is also my Halloween costume this year.
+    An ode to the incredibly cute women&rsquo;s uniforms in <em>Star Trek</em>&rsquo;s original series, which coincidentally, is also my Halloween costume this year.
 
 * 🖥️  [**Testing for Google Description Regression**](https://freyyj.org/google-description-regression) <sub><em>Oct 29, 2020</em></sub>
 
@@ -20,7 +20,7 @@ I write as often as I can make myself do it. Here's my latest.
 
 * 📓  [**A Note on Chat Requests**](https://freyyj.org/chat-requests) <sub><em>Oct 29, 2020</em></sub>
 
-    I almost never respond to chat requests on social platforms. That might feel like a slight, so here's an explanation as to why."
+    I almost never respond to chat requests on social platforms. That might feel like a slight, so here&rsquo;s an explanation as to why.
 
 A full list of [my articles is here](https://freyyj.org/articles).
 
