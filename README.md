@@ -1,6 +1,6 @@
 # Hi!
 
-Hi I'm **Freyyj** (or Freyja, or Frey, or Frey·ja as you like) part-time girl and part-time writer on technology, culture, and social platforms.
+Hi I'm **Freyyj** (or Freyja, or Frey, or Frey·ja as you like) part-time girl and part-time writer on technology, culture, and the internet.
 
 You can find me online at [**freyyj.org**](https://freyyj.org) and on Twitter at [**@freyyj**](https://twitter.com/freyyj).
 
