@@ -10,6 +10,10 @@ I write as often as I can make myself do it. Here's my latest.
 
 ( 🖥️ = technology, 🌏 = social platforms, 🎞️ = culture, 💄 = boy-to-girl stuff, 📓 = personal, 🗞️ = other )
 
+* 📓  [**Reflecting on 2020**](https://freyyj.org/2020-reflecting) <sub><em>Dec 27, 2020</em></sub>
+
+    Thoughts on a year spent WFH, largely in isolation, and working on websites and photoshoots.
+
 * 🎞️  [**How Not to Wear Bodysuits in 2077**](https://freyyj.org/2077) <sub><em>Dec 26, 2020</em></sub>
 
     The internet is angry. Again.
@@ -25,10 +29,6 @@ I write as often as I can make myself do it. Here's my latest.
 * 📓  [**A Note on Chat Requests**](https://freyyj.org/chat-requests) <sub><em>Oct 29, 2020</em></sub>
 
     I almost never respond to chat requests on social platforms. That might feel like a slight, so here&rsquo;s an explanation as to why.
-
-* 📓  [**NaNoWriMo 2020**](https://freyyj.org/nanowrimo-2020) <sub><em>Oct 24, 2020</em></sub>
-
-    Examining why I fail NaNoWriMo every year, and considering failing it again in 2020.
 
 A full list of [my articles is here](https://freyyj.org/articles).
 
