@@ -10,6 +10,10 @@ I write as often as I can make myself do it. Here's my latest.
 
 ( 🖥️ = technology, 🌏 = social platforms, 🎞️ = culture, 💄 = boy-to-girl stuff, 📓 = personal, 🗞️ = other )
 
+* 🎞️  [**How Not to Wear Bodysuits in 2077**](https://freyyj.org/2077) <sub><em>Dec 26, 2020</em></sub>
+
+    The internet is angry. Again.
+
 * 🎞️  [**The Original Uniform**](https://freyyj.org/star-trek-uniform) <sub><em>Nov 1, 2020</em></sub>
 
     An ode to the incredibly cute women&rsquo;s uniforms in <em>Star Trek</em>&rsquo;s original series, which coincidentally, is also my Halloween costume this year.
@@ -25,10 +29,6 @@ I write as often as I can make myself do it. Here's my latest.
 * 📓  [**NaNoWriMo 2020**](https://freyyj.org/nanowrimo-2020) <sub><em>Oct 24, 2020</em></sub>
 
     Examining why I fail NaNoWriMo every year, and considering failing it again in 2020.
-
-* 💄  [**The Long Arc of History**](https://freyyj.org/long-arc) <sub><em>Oct 23, 2020</em></sub>
-
-    A secret crossdressing resort in the Catskills during the 1960s, and thinking about crossdressers of the past.
 
 A full list of [my articles is here](https://freyyj.org/articles).
 
