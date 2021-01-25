@@ -10,6 +10,10 @@ I write as often as I can make myself do it. Here's my latest.
 
 ( 🖥️ = technology, 🌏 = social platforms, 🎞️ = culture, 💄 = boy-to-girl stuff, 📓 = personal, 🗞️ = other )
 
+* 💄  [**Long Jacket**](https://freyyj.org/long-jacket) <sub><em>January 24, 2021</em></sub>
+
+    &hellip; and not even a short skirt anymore. Two stupid leggings stories from the holidays, and how to make leggings work for you.
+
 * 📓  [**Reflecting on 2020**](https://freyyj.org/2020-reflecting) <sub><em>December 27, 2020</em></sub>
 
     Thoughts on a year spent WFH, largely in isolation, and working on websites and photoshoots.
@@ -25,10 +29,6 @@ I write as often as I can make myself do it. Here's my latest.
 * 🖥️  [**Testing for Google Description Regression**](https://freyyj.org/google-description-regression) <sub><em>October 29, 2020</em></sub>
 
     Optimizing for the exact number of characters Google will show in a description and implementing a regression test to make sure the limit is never exceeded.
-
-* 📓  [**A Note on Chat Requests**](https://freyyj.org/chat-requests) <sub><em>October 28, 2020</em></sub>
-
-    I almost never respond to chat requests on social platforms. That might feel like a slight, so here&rsquo;s an explanation as to why.
 
 A full list of [my articles is here](https://freyyj.org/articles).
 
