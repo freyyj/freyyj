@@ -72,8 +72,11 @@ var backoffSchedule = []time.Duration{
 	10 * time.Second,
 }
 
+var localLocation *time.Location = mustLocation("America/Los_Angeles")
+
 // Helper functions made available during template rendering.
 var templateFuncMap = template.FuncMap{
+	"FormatTimeLocal":     formatTimeLocal,
 	"SymbolForCategories": symbolForCategories,
 }
 
@@ -110,6 +113,10 @@ type READMEData struct {
 func fail(err error) {
 	fmt.Fprintf(os.Stderr, "Error during execution:\n%v\n", err)
 	os.Exit(1)
+}
+
+func formatTimeLocal(t time.Time) string {
+	return t.In(localLocation).Format("January 2, 2006")
 }
 
 func getAtomFeedEntries(url string) ([]*Entry, error) {
@@ -172,6 +179,14 @@ func getURLDataWithRetries(url string) (*http.Response, []byte, error) {
 	}
 
 	return resp, body, nil
+}
+
+func mustLocation(locationName string) *time.Location {
+	locatio, err := time.LoadLocation(locationName)
+	if err != nil {
+		panic(err)
+	}
+	return locatio
 }
 
 func renderTemplateToStdout(readmeData *READMEData) error {

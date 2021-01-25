@@ -10,7 +10,7 @@ I write as often as I can make myself do it. Here's my latest.
 
 ( 🖥️ = technology, 🌏 = social platforms, 🎞️ = culture, 💄 = boy-to-girl stuff, 📓 = personal, 🗞️ = other )
 {{range (slice .Articles 0 5)}}
-* {{SymbolForCategories .Categories}}  [**{{.Title}}**]({{.Link.Href}}) <sub><em>{{.Published.Format "Jan 2, 2006"}}</em></sub>
+* {{SymbolForCategories .Categories}}  [**{{.Title}}**]({{.Link.Href}}) <sub><em>{{FormatTimeLocal .Published}}</em></sub>
 
     {{.Summary}}
 {{end}}
