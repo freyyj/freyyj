@@ -10,6 +10,10 @@ I write as often as I can make myself do it. Here's my latest.
 
 ( 🖥️ = technology, 🌏 = social platforms, 🎞️ = culture, 💄 = boy-to-girl stuff, 📓 = personal, 🗞️ = other )
 
+* 💄  [**Out**](https://freyyj.org/out-2021) <sub><em>September 19, 2021</em></sub>
+
+    I need to get out more.
+
 * 💄  [**Long Jacket**](https://freyyj.org/long-jacket) <sub><em>January 24, 2021</em></sub>
 
     &hellip; and not even a short skirt anymore. Two stupid leggings stories from the holidays, and how to make leggings work for you.
@@ -25,10 +29,6 @@ I write as often as I can make myself do it. Here's my latest.
 * 🎞️  [**The Original Uniform**](https://freyyj.org/star-trek-uniform) <sub><em>October 31, 2020</em></sub>
 
     An ode to the incredibly cute women&rsquo;s uniforms in <em>Star Trek</em>&rsquo;s original series, which coincidentally, is also my Halloween costume this year.
-
-* 🖥️  [**Testing for Google Description Regression**](https://freyyj.org/google-description-regression) <sub><em>October 29, 2020</em></sub>
-
-    Optimizing for the exact number of characters Google will show in a description and implementing a regression test to make sure the limit is never exceeded.
 
 A full list of [my articles is here](https://freyyj.org/articles).
 
